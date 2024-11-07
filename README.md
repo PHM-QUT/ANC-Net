@@ -1,5 +1,5 @@
 # ANC-Net
-ANC-Net论文的核心源码。The kernel source of the ANC-Net.
+ANC-Net论文的核心源码。The kernel source code of the ANC-Net.
 
 
 ## 论文主要创新点 The key contributions of the paper
